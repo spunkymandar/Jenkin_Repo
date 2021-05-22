@@ -1,5 +1,5 @@
 class Demo{
   public static void main(String[] args){
-     System.out.println("Sample code running again and again. Crazy !!");
+     System.out.println("Sample code running again and again. Crazy  & Weired!!");
   }
 }
